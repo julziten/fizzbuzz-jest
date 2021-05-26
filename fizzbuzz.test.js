@@ -1,4 +1,3 @@
-// const fizzbuzz = require('./fizzbuzz');
 import { fizzbuzz } from './fizzbuzz';
 
 describe('fizzbuzz', () => {
